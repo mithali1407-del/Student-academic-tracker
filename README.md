@@ -1,8 +1,10 @@
 # Student Academic Tracker
 
-Simple Python project to manage student records.
+A simple Python project to manage student records using file handling.
 
 ## Features
-- Add and Remove Student
-- View Students,their Grades
-- File Handling
+- Add Student Record
+- View Student Details
+- Delete Student Record
+- Calculate Grade
+
