@@ -6,8 +6,8 @@ def add_record():
     subject1 = int(input("Enter Subject 1 Marks : "))
     subject2 = int(input("Enter Subject 2 Marks : "))
     subject3 = int(input("Enter Subject 3 Marks : "))
-    subject4 = int(input("Enter Subject 3 Marks : "))
-    subject5 = int(input("Enter Subject 3 Marks : "))
+    subject4 = int(input("Enter Subject 4 Marks : "))
+    subject5 = int(input("Enter Subject 5 Marks : "))
 
     total_marks = subject1 + subject2 + subject3 + subject4 + subject5 
     average_marks = total_marks / 5
